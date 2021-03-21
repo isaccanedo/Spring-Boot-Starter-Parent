@@ -124,4 +124,4 @@ Neste tutorial, demos uma visão geral do spring-boot-starter-parent e o benefí
 
 Em seguida, aprendemos como gerenciar dependências. Podemos substituir dependências em dependencyManagement ou por meio de propriedades.
 
-O código-fonte dos trechos usados neste tutorial está disponível no Github, um usando o pai inicial e o outro um pai personalizado.
+O código-fonte dos trechos usados neste tutorial está disponível aqui https://github.com/isaccanedo/Spring-Boot-Starter-Parent, um usando o pai inicial e o outro um pai personalizado.
