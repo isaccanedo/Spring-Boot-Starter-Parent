@@ -1,4 +1,4 @@
-## Spring Boot Parent
+# Spring Boot Parent
 
 # 1. Introdução
 Neste tutorial, aprenderemos sobre spring-boot-starter-parent e como podemos nos beneficiar disso para melhor gerenciamento de dependências, configurações padrão para plug-ins e construir rapidamente nossos aplicativos Spring Boot.
