@@ -93,7 +93,7 @@ Vamos explicar isso com um exemplo simples no qual queremos usar outro pai que n
 
 ```
 <parent>
-    <groupId>com.baeldung</groupId>
+    <groupId>com.isac</groupId>
     <artifactId>spring-boot-parent</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 </parent>
